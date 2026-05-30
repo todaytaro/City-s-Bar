@@ -1,0 +1,8 @@
+.claude/
+.DS_Store
+*.HEIC
+*.heic
+Gemini_Generated_Image_*.png
+City*Bar*LP*.docx
+node_modules/
+.vercel/

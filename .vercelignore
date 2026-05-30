@@ -1,0 +1,6 @@
+.claude/
+*.HEIC
+*.heic
+Gemini_Generated_Image_*.png
+City*Bar*LP*.docx
+.DS_Store
